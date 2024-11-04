@@ -1,0 +1,4 @@
+Name = Lopi
+Skin = Crash
+Hp = 100
+Inventory = []

@@ -1,0 +1,5 @@
+Name = New world
+difficult = 1
+Mode = 1
+Size = 0
+Time = 2024-08-06 16:45:21.292334
